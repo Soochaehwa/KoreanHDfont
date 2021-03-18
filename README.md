@@ -6,7 +6,7 @@
 **티머니 둥근바람** 폰트로 제작되었습니다.
 ## 설치
 
-[![GitHub all releases](https://img.shields.io/github/downloads/laxotor/KoreanHDfont/total)](https://github.com/laxotor/KoreanHDfont/releases/download/v1.0.0/korean_hd_font.zip)
+[![GitHub all releases](https://img.shields.io/github/downloads/laxotor/KoreanHDfont/total)](https://github.com/laxotor/KoreanHDfont/releases/download/v1.0.1/korean_hd_font.zip)
 
 다운로드 버튼을 눌려 리소스팩을 다운받은 후 resourcepacks 폴더에 넣으면 됩니다.
 
